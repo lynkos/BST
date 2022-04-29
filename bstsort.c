@@ -1,13 +1,3 @@
-/*
-* Name: Kiran Brahmatewari
-* PID: 5467937
-*
-* I affirm that I wrote this program myself without any help
-* from any other people or sources from the internet
-*
-* bstsort.c creates a Binary Search Tree and sorts it,
-* depending on the given command line arguments
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
